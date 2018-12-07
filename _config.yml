@@ -1,7 +1,7 @@
 title: learn
 short_title: Belkirk
 description: Belkirk Demo Site for Forestry.io
-baseurl:"https://github.com/flyerooo/flyerooo.github.io.git"
+baseurl:
 permalink: "/:path/"
 defaults:
   - scope:
